@@ -1,0 +1,75 @@
+
+[
+	{
+		"id":"1",
+		"title" : "Cloverly",
+		"skills" : "ReactJS, StyledComponent",
+		"img" : "../img/work1.png",
+		"imgBig": "../img/work1.png",
+		"gitHubLink": "https://github.com"
+	},
+	{
+		"id":"2",
+		"title" : "WoodTech",
+		"skills" : "HTML, CSS",
+		"img" : "../img/work2.png",
+		"imgBig": "../img/work2.png",
+		"gitHubLink": "https://github.com"
+	},
+	{
+		"id":"3",
+		"title" : "Healthcare",
+		"skills" : "ReactJS, SCSS, ReactApexCharts",
+		"img" : "../img/work3.png",
+		"imgBig": "../img/work3.png",
+		"gitHubLink": "https://github.com"
+	},
+	{
+		"id":"4",
+		"title" : "Rick and Morty",
+		"skills" : "ReactJS, StyledComponent",
+		"img" : "../img/work4.png",
+		"imgBig": "../img/work4.png",
+		"gitHubLink": "https://github.com"
+	},
+	{
+		"id":"5",
+		"title" : "Интерьер",
+		"skills" : "HTML, CSS, JavaScript",
+		"img" : "../img/work7.png",
+		"imgBig": "../img/work7.png",
+		"gitHubLink": "https://github.com"
+	},
+	{
+		"id":"6",
+		"title" : "Отели",
+		"skills" : "HTML, CSS, JavaScript",
+		"img" : "../img/work5.png",
+		"imgBig": "../img/work5.png",
+		"gitHubLink": "https://github.com"
+	},
+	{
+		"id":"7",
+		"title" : "React-app",
+		"skills" : "ReactJS, CSS",
+		"img" : "../img/work10.png",
+		"imgBig": "../img/work10.png",
+		"gitHubLink": "https://github.com"
+	},
+	{
+		"id":"8",
+		"title" : "Collab.io",
+		"skills" : "HTML, CSS",
+		"img" : "../img/work6.png",
+		"imgBig": "../img/work6.png",
+		"gitHubLink": "https://github.com"
+	},
+	{
+		"id":"9",
+		"title" : "ScrumTable",
+		"skills" : "HTML, CSS, JavaScript",
+		"img" : "../img/work9.png",
+		"imgBig": "../img/work9.png",
+		"gitHubLink": "https://github.com"
+	}
+]
